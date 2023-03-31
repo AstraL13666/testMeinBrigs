@@ -1,4 +1,4 @@
-### Test Myers-Brigs MBTI
+### Test Myers-Briggs MBTI
 
 ## Бот построен на базе:
 aiogram
