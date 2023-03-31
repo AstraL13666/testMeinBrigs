@@ -1,7 +1,7 @@
 ### Test Myers-Brigs MBTI
 
 ## Бот построен на базе:
-На базе aiogram
+aiogram
 
 ## Используемые модули:
 *SFM - machine*
